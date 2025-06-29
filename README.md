@@ -1,13 +1,12 @@
-# Chrome Notes Extension (AI-Generated)
+# Chrome Notes Extension
 
-This Chrome extension allows users to select text, right-click, and save it as a note. You can download the saved content in either `.txt` or `.html` format. The entire extension, including its functionality and design, was created using AI, with no manual coding involved from my side.
+This Chrome extension allows users to select text, right-click, and save it as a note. You can download the saved content in either `.txt` or `.html` format. 
 
 ## Features
 - Select text and right-click to open a context menu.
 - Save text in both **text** and **code block** formats.
 - Supports **image integration** alongside text.
 - Download saved content as `.txt` or `.html`.
-- Fully AI-generated extension.
 
 ## Installation
 1. Download the extension files from this repository.
@@ -26,8 +25,3 @@ This Chrome extension allows users to select text, right-click, and save it as a
 ![Alt text](./assets/popup.png)
 
 ![Alt text](./assets/download.png)
-
-
-
-
-I probably wasted my whole cursor-free token on this shit, but hey, at least it's working now.
